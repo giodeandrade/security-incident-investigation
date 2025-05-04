@@ -69,7 +69,7 @@ Enforcing a limit on consecutive failed login attempts is a simple but effective
 
 ---
 
-## Screenshots & References
+## References
 
 **Ref 1: DNS request for yummyrecipesforme.com observed in tcpdump**
 
